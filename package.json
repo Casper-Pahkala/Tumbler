@@ -1,0 +1,22 @@
+{
+  "name": "tumbler_front",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "matter-js": "^0.19.0",
+    "pinia": "^2.1.7",
+    "poly-decomp": "^0.3.0",
+    "vue": "^3.3.4",
+    "vuetify": "^3.4.0-beta.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.4.0",
+    "vite": "^4.4.11"
+  }
+}
